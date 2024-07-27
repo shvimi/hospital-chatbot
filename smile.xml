@@ -1,0 +1,8 @@
+<aiml version="1.0.1" encoding="UTF-8"> 
+	<category> 
+		<pattern>LOAD ASSI D</pattern> 
+		<template> 
+			<learn>C:\Users\admin\Desktop\New folder\hospi_chat.aiml</learn> 
+		</template> 
+	</category> 
+</aiml>
