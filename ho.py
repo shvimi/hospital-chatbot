@@ -7,8 +7,8 @@ kernel.respond("load assi D")
 while True: 
  input_txt= input(">input:")
  if input_txt.lower() == "thank you":
-    print("> Bot: Bey Take care ")
-    print(">Bot: Eat helthy and stay helthy")	
+    print("> Bot: Bye Take care ")
+    print(">Bot: Eat healthy and stay helthy")	
     break
  response =kernel.respond(input_txt) 
  print(">Bot: "+response)
